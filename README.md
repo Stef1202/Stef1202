@@ -2,7 +2,7 @@
 I am a passionate Front-End Developer based in Silang, Cavite, with a knack for turning creative designs into functional and intuitive web applications. With several years of experience in the field, I specialize in building responsive, user-centric websites that provide a seamless user experience across devices.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/stefanie.asaytono.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanie-asaytono-6a4607246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
