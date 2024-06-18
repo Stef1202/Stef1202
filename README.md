@@ -3,4 +3,4 @@ Front end application developers are computer programmers who specialize in webs
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,flutter,vue,react,nextjs,nodejs,materialui,ps,php)](https://skillicons.dev)
 # Contact Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/stefanie-asaytono-6a4607246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![Gmail](https://skillicons.dev/icons?i=linkedin)](https://mail.google.com/mail/u/0/?fs=1&to=stefanieasaytono@gmail.com&tf=cm)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/stefanie-asaytono-6a4607246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=stefanieasaytono@gmail.com&tf=cm)
