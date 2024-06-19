@@ -1,10 +1,12 @@
 # 💫 About Me:
 I am a passionate Front-End Developer based in Silang, Cavite, with a knack for turning creative designs into functional and intuitive web applications. With several years of experience in the field, I specialize in building responsive, user-centric websites that provide a seamless user experience across devices.
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/stefanie.asaytono.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanie-asaytono-6a4607246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
+<div align=center>
+  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,11 +31,26 @@ I am a passionate Front-End Developer based in Silang, Cavite, with a knack for 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-<div style="text-align: center">
+</div>
+
+## 📊 GitHub Stats:
+<div align=center>
+  
 ![](https://github-readme-stats.vercel.app/api?username=Stef1202&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stef1202&theme=one_dark_pro&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stef1202&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
+
+## 📞 Contact me:
+<div align=center>
+  
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recipient@example.com)
+  [![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/stefanie.asaytono.5)
+  [![](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://add?number=09770936971)
+  
+</div>
+
+
 
 
