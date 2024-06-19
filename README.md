@@ -30,8 +30,10 @@ I am a passionate Front-End Developer based in Silang, Cavite, with a knack for 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
+<div style="text-align: center">
 ![](https://github-readme-stats.vercel.app/api?username=Stef1202&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stef1202&theme=one_dark_pro&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stef1202&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 
